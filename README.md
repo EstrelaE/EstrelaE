@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/estrela_palma" target="blank"><img src="https://img.shields.io/twitter/follow/estrela_palma?logo=twitter&style=for-the-badge" alt="estrela_palma" /></a> </p>
 
-- 🔭 I’m currently working on **freelance clients pages**
+- 🔭 I’m currently working on some **freelance clients pages**
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on [#100Devs ADHD project](https://github.com/GarlandKey/100devs-adhd-group-project)
-
-- 📫 Feel free to reach out **estrelaespiridiao@gmail.com**
 
 - ⚡ Fun fact **I have a pet snail 🐌**
 
