@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some **freelance clients pages**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **OOP**
 
 - ⚡ Fun fact **I have a pet snail 🐌**
 
