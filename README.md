@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some **websites for clients**
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **React, TypeScript and Node.js**
 
 - ⚡ Fun fact **I have a pet snail 🐌**
 
