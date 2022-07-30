@@ -5,7 +5,7 @@
 
 - 🔭 Working on a **Weather App with React.js**
 
-- 🌱 I’m currently learning **Node.js and PHP WordPress*
+- 🌱 I’m currently learning **Node.js and PHP WordPress**
 
 - ⚡ Fun fact **I have a pet snail 🐌**
 
