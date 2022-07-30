@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/estrela_palma" target="blank"><img src="https://img.shields.io/twitter/follow/estrela_palma?logo=twitter&style=for-the-badge" alt="estrela_palma" /></a> </p>
 
-- 🔭 I’m currently working on some **websites for clients**
+- 🔭 Working on a **Weather App with React.js**
 
-- 🌱 I’m currently learning **React, TypeScript and Node.js**
+- 🌱 I’m currently learning **Node.js and PHP WordPress*
 
 - ⚡ Fun fact **I have a pet snail 🐌**
 
